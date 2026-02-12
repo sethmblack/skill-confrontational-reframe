@@ -1,12 +1,10 @@
 ---
 name: confrontational-reframe
-description: Transform defensive, evasive, or politically correct language into direct,
-  confrontational truth-telling that forces engagement with reality. Based on Patrice
-  O'Neal's communication style of replac...
+description: Transform defensive, evasive, or politically correct language into direct, confrontational truth-telling that forces engagement with reality. Based on Patrice O'Neal's communication style of replac...
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - confrontational-reframe
 - transformation
