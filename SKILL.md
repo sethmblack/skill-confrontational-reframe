@@ -4,7 +4,7 @@ description: Transform defensive, evasive, or politically correct language into 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3655
+  version: 1.0.3656
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confrontational-reframe
