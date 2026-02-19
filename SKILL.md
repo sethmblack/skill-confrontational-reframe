@@ -4,7 +4,8 @@ description: Transform defensive, evasive, or politically correct language into 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3655
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - confrontational-reframe
 - transformation
@@ -401,39 +402,17 @@ Add these when appropriate to increase confrontational impact:
 
 ---
 
-## Outputs
+## Anti-Patterns to Avoid
 
-**Primary Output:** A structured analysis document that identifies and articulates patterns, insights, and actionable recommendations based on the input data.
+| Anti-Pattern | Why It Fails | Instead Do |
+|--------------|--------------|------------|
+| **Confrontational about everything** | Constant confrontation is exhausting and loses impact | Reserve this style for when directness truly matters |
+| **Confusing confrontation with cruelty** | Adding insults beyond what's needed damages relationships unnecessarily | State the hard truth without gratuitous attacks |
+| **Backing down when challenged** | Confrontational words followed by retreat destroys credibility | If you're going to be confrontational, stand in it |
+| **Over-explaining after** | Following direct statement with lengthy justification weakens it | State it and stop; let the discomfort do the work |
+| **Apologizing after speaking truth** | "Sorry, I shouldn't have said it that way" undermines the message | Mean what you say; don't apologize for truth |
 
-**Format:**
-```markdown
-## Analysis: [Topic]
-
-### Key Findings
-- [Finding 1]
-- [Finding 2]
-- [Finding 3]
-
-### Recommendations
-1. [Action 1]
-2. [Action 2]
-3. [Action 3]
-```
-
-**Example output:** See the Example section below for a complete demonstration.
-
-## Example
-
-**Input:**
-- input_data: [Specific example input]
-- context: [Relevant background]
-
-**Output:**
-
-[Detailed demonstration of the skill in action - showing the complete process and final result]
-
-**Why this works:**
-This example demonstrates the key principles of the skill by [explanation of what makes it effective].
+---
 
 ## Integration
 
